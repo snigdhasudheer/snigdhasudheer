@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Snigdha%20Sudheer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20CSE%20Undergrad%20%40%20LPU&descAlignY=58&descSize=16" />
-</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/snigdha-sudheer/">
